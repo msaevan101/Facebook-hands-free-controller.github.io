@@ -24,7 +24,7 @@
     "Full Project Link :- https://github.com/Shahriar-Azad-Evan/Facebook-Hands-free-controller\n",
     "Author: Shahriar Azad Evan\n",
     "Email: shahriarazadevan@gmail.com\n",
-    "Website :- http://www.msaevan.xyz\n",
+    "Website :- http://www.msaevan.com\n",
     "FaceBook: http://faecbook.com/shahriarazadevan\n",
     "'''\n",
     "import cv2\n",
